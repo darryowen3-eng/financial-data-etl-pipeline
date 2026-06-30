@@ -126,5 +126,5 @@ WHERE Transaction_Date != '2026-01-01' AND Exchange_Rate > 0;
 ### Chronological Monthly Volume Trends
 *(Embedded figures below showcase analytical data trends sorted chronologically via system categorical mapping.)*
 
-![Monthly Volume Trend Line Chart](./images/monthly_trend_line_chart.png)
-![Currency Volume Bar Chart](./images/currency_volume_bar_chart.png)
+![Monthly Volume Trend Line Chart](images/linegraph.png)
+![Currency Volume Bar Chart](images/barchart.png)
